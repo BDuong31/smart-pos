@@ -1,0 +1,9 @@
+[submodule "smart-pos-nest"]
+	path = smart-pos-nest
+	url = https://github.com/BDuong31/smart-pos-nest.git
+[submodule "smart-pos-next"]
+	path = smart-pos-next
+	url = https://github.com/BDuong31/smart-pos-next.git
+[submodule "smart-pos-mobile"]
+	path = smart-pos-mobile
+	url = https://github.com/BDuong31/smart-pos-mobile.git
